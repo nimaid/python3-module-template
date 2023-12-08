@@ -1,0 +1,20 @@
+[project]
+name = "python3_template"
+version = "1.0.0"
+description = "A python 3 module"
+license= {file = "LICENSE"}
+authors = [
+    {name = "Ella Jameson", email = "ellagjameson@gmail.com"}
+]
+readme = "README_pypi.MD"
+classifiers = []
+dependencies = []
+
+[project.urls]
+homepage = "https://github.com/nimaid/python3-template"
+repository = "https://github.com/nimaid/python3-template"
+Issues = "https://github.com/nimaid/python3-template/issues"
+
+
+[project.scripts]
+python3-template = "python3_template.core:main"
