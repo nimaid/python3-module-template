@@ -1,7 +1,7 @@
 # nimaid's Python 3 Project Template
 ### A Python 3 module.
 
-<p align="center"><img src="docs/example.png" width="800px" alt="Example image"/></p>
+<p align="center"><img src="docs/example.jpg" width="800px" alt="Example image"/></p>
 
 <p align="center"><a href="https://google.com"><img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="200px" alt="project on Pypi"></a></p>
 
